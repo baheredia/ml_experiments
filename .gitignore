@@ -102,9 +102,15 @@ ENV/
 
 # data
 dogbreed/data
+portoseguro/data
 
 # models
 dogbreed/models
+portoseguro/models
 
 # submissions
 dogbreed/submissions
+portoseguro/submissions
+
+# emacs
+*~
